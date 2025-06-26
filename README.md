@@ -25,15 +25,12 @@ Trong quá trình làm việc, tôi đã **thiết kế, phát triển và tri�
 - **Real-time Control**: Lập trình C/C++ cho các hệ thống điều khiển thời gian thực
 - **Computer Vision**: Ứng dụng OpenCV và PCL cho perception và obstacle detection
 
-### 🎯 Tầm Nhìn Nghề Nghiệp
-
-Tôi tin rằng **Autonomous Mobile Robots** sẽ cách mạng hóa ngành công nghiệp và logistics. Với nền tảng kỹ thuật vững chắc từ Đại học Bách Khoa Hà Nội và kinh nghiệm thực tế, tôi cam kết đóng góp vào sự phát triển của **Industry 4.0** thông qua các giải pháp robotics tiên tiến và đáng tin cậy.
 
 ## 🚀 Chuyên Môn Công Nghệ
 
 ### 🔧 Robotics Frameworks
-- **ROS (Robot Operating System)** - Maintain những dự án cũ sử dụng Framework này
-- **ROS2** - Ứng dụng cho các Project thương mại của công ty
+- **ROS (Robot Operating System)** - Maintain những dự án cũ của công ty sử dụng Framework này
+- **ROS2** - Ứng dụng cho các Project thương mại mới của công ty
 - **MRPT (Mobile Robot Programming Toolkit)** - Algorithms cho SLAM, navigation và perception
 
 ### 💻 Ngôn Ngữ Lập Trình
