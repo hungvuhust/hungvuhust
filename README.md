@@ -73,28 +73,6 @@ Trong quá trình làm việc, tôi đã **thiết kế, phát triển và tri�
 
 </div>
 
-## 🎯 Dự Án Nổi Bật
-
-### 🤖 Autonomous Mobile Robot Navigation
-- **Công nghệ**: ROS/ROS2, MRPT, C++, Python, OpenCV, PCL, CUDA, OpenMP, OpenCL
-- **Mô tả**: Phát triển hệ thống navigation tự động cho robot di động sử dụng SLAM và path planning
-- **Tính năng**: Real-time obstacle avoidance, dynamic route/path replanning, multi-sensor fusion
-
-### 🔍 Localizaiton 2D Implementation
-- **Công nghệ**: ROS2, PCL, C++
-- **Mô tả**: Triển khai thuật toán Localizaiton 2D cho robot mapping môi trường phức tạp
-- **Tính năng**: Localizaiton hybrid, SLAM-based Localization, Landmark-based Localization
-
-### 🏭 Sensor, Actuator for AGV/AMR 
-- **Công nghệ**: C/C++, Linux, Qt5
-- **Mô tả**: Triển khai Driver, API cho các Sensor sử dụng cho AGV/AMR với GUI monitoring.
-- **Tính năng**: Safety systems, Sensor Setup, Real-time monitoring dashboard
-
-### 🚀 Performance Optimization Projects
-- **Công nghệ**: CUDA, OpenMP, OpenCL, C++
-- **Mô tả**: Tối ưu hóa algorithms cho real-time processing và computer vision
-- **Tính năng**: GPU acceleration, Multi-core processing, Cross-platform optimization
-
 
 ## 🎓 Chứng Chỉ & Học Vấn
 
