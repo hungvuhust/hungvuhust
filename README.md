@@ -32,10 +32,6 @@ Chào mừng đến với GitHub của tôi! Tôi là một kỹ sư Robotics đ
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hungvuhust&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-</div>
-
-<div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hungvuhust&layout=compact&theme=radical&langs_count=8" alt="Top Languages" />
 </div>
 
