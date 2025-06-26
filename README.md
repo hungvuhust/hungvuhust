@@ -17,38 +17,9 @@ Trong quá trình làm việc, tôi đã **thiết kế, phát triển và tri�
 - ⚡ **Mecanum**: Robot đa hướng 
 - 🏗️ **Forklift AGV**: Robot nâng hạ Pallet tự động cho nhà xưởng, kho.
 
-### 💼 Chuyên Môn Cốt Lõi
-
-- **Navigation Systems**: Phát triển thuật toán navigation tự động sử dụng ROS2 và MRPT
-- **Localization**: Triển khai các giải pháp định vị hybrid, SLAM-based và Landmark-based
-- **Sensor Integration**: Tích hợp và phát triển driver cho các loại sensor công nghiệp
-- **Real-time Control**: Lập trình C/C++ cho các hệ thống điều khiển thời gian thực
-- **Computer Vision**: Ứng dụng OpenCV và PCL cho perception và obstacle detection
-- **High Performance Computing**: Tối ưu hóa algorithms sử dụng CUDA, OpenMP, OpenCL
-- **User Interface**: Phát triển monitoring dashboards và control panels với Qt5
-
 
 ## 🚀 Chuyên Môn Công Nghệ
 
-### 🔧 Robotics Frameworks
-- **ROS (Robot Operating System)** - Maintain những dự án cũ của công ty sử dụng Framework này
-- **ROS2** - Ứng dụng cho các Project thương mại mới của công ty
-- **MRPT (Mobile Robot Programming Toolkit)** - Triển khai cho các dự án liên quan đến SLAM, navigation và perception
-
-### 💻 Ngôn Ngữ Lập Trình
-- **C/C++** - Phát triển hệ thống real-time và embedded systems
-- **Python3** - Rapid prototyping, machine learning và automation scripts
-- **CUDA** - GPU parallel computing cho computer vision và AI algorithms
-- **CMake** - Build system management
-- **Bash/Shell** - System automation và deployment
-
-### ⚡ Parallel Computing & Performance
-- **OpenMP** - Multi-threading để tối ưu hóa performance trên CPU
-- **OpenCL** - Cross-platform parallel computing cho heterogeneous systems
-- **CUDA** - NVIDIA GPU programming cho deep learning và image processing
-- **Threading Libraries** - Tối ưu hóa real-time performance
-
-### 🎯 Lĩnh Vực Chuyên Sâu
 - **Autonomous Mobile Robots**
 - **SLAM (Simultaneous Localization and Mapping)** 
 - **Localizaiton 2D/3D**
