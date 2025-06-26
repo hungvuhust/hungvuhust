@@ -1,18 +1,18 @@
 # 🤖 Kỹ Sư Robotics & Tự Động Hóa
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/your-profile)
-[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:your.email@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green?style=for-the-badge&logo=github)](https://your-portfolio.com)
+
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:crusadertrask2k@gmail.com)
+
 
 ## 👋 Giới Thiệu
 
-Chào mừng đến với GitHub của tôi! Tôi là một kỹ sư Robotics đam mê phát triển các hệ thống robot thông minh và tự động hóa. Với kinh nghiệm sâu rộng trong ROS/ROS2 và các công nghệ robotics tiên tiến, tôi chuyên tạo ra những giải pháp robotics đáng tin cậy và hiệu quả.
+Chào mừng đến với GitHub của tôi! Tôi là một kỹ sư Robotics đam mê phát triển các hệ thống robot thông minh và tự động hóa. Có kinh nghiệm làm Autonomous Mobile Robot ứng dụng trong công nghiệp được 2 năm. Các mô hình AMR đã triển khai: Diffiriential, Double-Swerve, Mecanum, Forklift.
 
 ## 🚀 Chuyên Môn Công Nghệ
 
 ### 🔧 Robotics Frameworks
-- **ROS (Robot Operating System)** - Phát triển ứng dụng robotics phức tạp
-- **ROS2** - Hệ thống robotics thế hệ mới với real-time capabilities
+- **ROS (Robot Operating System)** - Maintain những dự án cũ sử dụng Framework này
+- **ROS2** - Ứng dụng cho các Project thương mại của công ty
 - **MRPT (Mobile Robot Programming Toolkit)** - Algorithms cho SLAM, navigation và perception
 
 ### 💻 Ngôn Ngữ Lập Trình
@@ -22,13 +22,12 @@ Chào mừng đến với GitHub của tôi! Tôi là một kỹ sư Robotics đ
 - **Bash/Shell** - System automation và deployment
 
 ### 🎯 Lĩnh Vực Chuyên Sâu
+- **Autonomous Mobile Robots**
 - **SLAM (Simultaneous Localization and Mapping)**
 - **Path Planning & Navigation**
 - **Computer Vision & Perception**
 - **Sensor Fusion & Kalman Filtering**
-- **Autonomous Mobile Robots**
 - **Industrial Automation**
-- **Real-time Control Systems**
 
 ## 📊 GitHub Stats
 
@@ -69,45 +68,36 @@ Chào mừng đến với GitHub của tôi! Tôi là một kỹ sư Robotics đ
 ## 🎯 Dự Án Nổi Bật
 
 ### 🤖 Autonomous Mobile Robot Navigation
-- **Công nghệ**: ROS2, MRPT, C++, Python
+- **Công nghệ**: ROS/ROS2, MRPT, C++, Python, OpenCV 
 - **Mô tả**: Phát triển hệ thống navigation tự động cho robot di động sử dụng SLAM và path planning
-- **Tính năng**: Real-time obstacle avoidance, dynamic path replanning, multi-sensor fusion
+- **Tính năng**: Real-time obstacle avoidance, dynamic route/path replanning, multi-sensor fusion
 
-### 🔍 3D SLAM Implementation
-- **Công nghệ**: ROS, PCL, C++, OpenCV
-- **Mô tả**: Triển khai thuật toán SLAM 3D cho robot mapping môi trường phức tạp
-- **Tính năng**: Point cloud processing, loop closure detection, map optimization
+### 🔍 Localizaiton 2D Implementation
+- **Công nghệ**: ROS2, PCL, C++
+- **Mô tả**: Triển khai thuật toán Localizaiton 2D cho robot mapping môi trường phức tạp
+- **Tính năng**: Localizaiton hybrid, SLAM-based Localization, Landmark-based Localization
 
-### 🏭 Industrial Robot Control System
-- **Công nghệ**: C++, Real-time Linux, EtherCAT
-- **Mô tả**: Hệ thống điều khiển robot công nghiệp với độ chính xác cao
-- **Tính năng**: Sub-millisecond control loop, safety systems, trajectory planning
+### 🏭 Sensor, Actuator for AGV/AMR 
+- **Công nghệ**: C/C++, Linux
+- **Mô tả**: Triển khai Driver, API cho các Sensor sử dụng cho AGV/AMR.
+- **Tính năng**: Safety systems, Sensor Setup
 
-## 📈 Hoạt Động Gần Đây
-
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
 
 ## 🎓 Chứng Chỉ & Học Vấn
 
-- 🎓 **Kỹ Sư Robotics** - Đại học Bách Khoa Hà Nội
-- 📜 **ROS Developer Certification**
-- 📜 **Computer Vision Specialization**
-- 📜 **Industrial Automation Certificate**
+- 🎓 **Kỹ Sư Cơ điện tử** - Đại học Bách Khoa Hà Nội
+
 
 ## 📫 Liên Hệ
 
-- 📧 **Email**: your.email@gmail.com
-- 💼 **LinkedIn**: [Hồ Sơ LinkedIn](https://linkedin.com/in/your-profile)
-- 🌐 **Website**: [Portfolio](https://your-portfolio.com)
-- 📱 **Telegram**: @your_telegram
+- 📧 **Email**: crusadertrask2k@gmail.com
 
 ## 💡 Mục Tiêu Hiện Tại
 
 - 🔬 Nghiên cứu AI-powered robotics và machine learning trong robotics
 - 🌟 Đóng góp cho cộng đồng ROS/ROS2 open source
 - 🚀 Phát triển các giải pháp robotics cho Industry 4.0
-- 📚 Chia sẻ kiến thức qua blog và workshop
+- 📚 Chia sẻ kiến thức qua github
 
 ## 🤝 Hợp Tác
 
