@@ -24,6 +24,8 @@ Trong quá trình làm việc, tôi đã **thiết kế, phát triển và tri�
 - **Sensor Integration**: Tích hợp và phát triển driver cho các loại sensor công nghiệp
 - **Real-time Control**: Lập trình C/C++ cho các hệ thống điều khiển thời gian thực
 - **Computer Vision**: Ứng dụng OpenCV và PCL cho perception và obstacle detection
+- **High Performance Computing**: Tối ưu hóa algorithms sử dụng CUDA, OpenMP, OpenCL
+- **User Interface**: Phát triển monitoring dashboards và control panels với Qt5
 
 
 ## 🚀 Chuyên Môn Công Nghệ
@@ -31,41 +33,28 @@ Trong quá trình làm việc, tôi đã **thiết kế, phát triển và tri�
 ### 🔧 Robotics Frameworks
 - **ROS (Robot Operating System)** - Maintain những dự án cũ của công ty sử dụng Framework này
 - **ROS2** - Ứng dụng cho các Project thương mại mới của công ty
-- **MRPT (Mobile Robot Programming Toolkit)** - Algorithms cho SLAM, navigation và perception
+- **MRPT (Mobile Robot Programming Toolkit)** - Triển khai cho các dự án liên quan đến SLAM, navigation và perception
 
 ### 💻 Ngôn Ngữ Lập Trình
 - **C/C++** - Phát triển hệ thống real-time và embedded systems
 - **Python3** - Rapid prototyping, machine learning và automation scripts
+- **CUDA** - GPU parallel computing cho computer vision và AI algorithms
 - **CMake** - Build system management
 - **Bash/Shell** - System automation và deployment
 
+### ⚡ Parallel Computing & Performance
+- **OpenMP** - Multi-threading để tối ưu hóa performance trên CPU
+- **OpenCL** - Cross-platform parallel computing cho heterogeneous systems
+- **CUDA** - NVIDIA GPU programming cho deep learning và image processing
+- **Threading Libraries** - Tối ưu hóa real-time performance
+
 ### 🎯 Lĩnh Vực Chuyên Sâu
-- **Autonomous Mobile Robots** - Thiết kế và triển khai thực tế
-- **SLAM (Simultaneous Localization and Mapping)** - Thuật toán định vị và lập bản đồ
-- **Path Planning & Navigation** - Lập kế hoạch đường đi tối ưu
-- **Computer Vision & Perception** - Xử lý ảnh và nhận diện môi trường
-- **Sensor Fusion & Kalman Filtering** - Tích hợp đa sensor và lọc nhiễu
-- **Industrial Automation** - Tự động hóa quy trình sản xuất
+- **Autonomous Mobile Robots**
+- **SLAM (Simultaneous Localization and Mapping)** 
+- **Localizaiton 2D/3D**
+- **Computer Vision & Perception** 
+- **Sensor Fusion & Kalman Filtering** 
 
-## 🏆 Thành Tựu & Highlights
-
-### 📈 Metrics Dự Án Thực Tế
-- ✅ **4+ loại AMR** đã triển khai thành công trong môi trường sản xuất
-- ✅ **2 năm kinh nghiệm** phát triển robotics trong công nghiệp
-- ✅ **100%** các project AMR đạt yêu cầu performance và an toàn
-- ✅ **Tích hợp thành công** với hệ thống WMS/ERP của nhà máy
-
-### 🔧 Technical Achievements
-- 🚀 **Sub-second response time** cho obstacle avoidance systems
-- 🎯 **Centimeter-level accuracy** trong navigation và positioning
-- 🛡️ **Zero accidents** trong quá trình vận hành thực tế
-- ⚡ **Real-time processing** cho multi-sensor fusion algorithms
-
-### 💡 Innovation & Problem Solving
-- 🔬 **Tối ưu hóa thuật toán** path planning cho môi trường động
-- 🛠️ **Phát triển custom drivers** cho industrial sensors
-- 🔄 **Thiết kế redundancy systems** đảm bảo reliability cao
-- 📊 **Implement monitoring dashboard** cho fleet management
 
 ## 📊 GitHub Stats
 
@@ -89,6 +78,12 @@ Trong quá trình làm việc, tôi đã **thiết kế, phát triển và tri�
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![CMake](https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white)
 
+### Parallel Computing & UI
+![CUDA](https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
+![OpenMP](https://img.shields.io/badge/OpenMP-0071C5?style=for-the-badge&logo=openmp&logoColor=white)
+![OpenCL](https://img.shields.io/badge/OpenCL-000000?style=for-the-badge&logo=opencl&logoColor=white)
+![Qt5](https://img.shields.io/badge/Qt5-41CD52?style=for-the-badge&logo=qt&logoColor=white)
+
 ### Tools & Platforms
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
@@ -110,7 +105,7 @@ Trong quá trình làm việc, tôi đã **thiết kế, phát triển và tri�
 ## 🎯 Dự Án Nổi Bật
 
 ### 🤖 Autonomous Mobile Robot Navigation
-- **Công nghệ**: ROS/ROS2, MRPT, C++, Python, OpenCV 
+- **Công nghệ**: ROS/ROS2, MRPT, C++, Python, OpenCV, PCL, CUDA, OpenMP, OpenCL
 - **Mô tả**: Phát triển hệ thống navigation tự động cho robot di động sử dụng SLAM và path planning
 - **Tính năng**: Real-time obstacle avoidance, dynamic route/path replanning, multi-sensor fusion
 
@@ -120,9 +115,14 @@ Trong quá trình làm việc, tôi đã **thiết kế, phát triển và tri�
 - **Tính năng**: Localizaiton hybrid, SLAM-based Localization, Landmark-based Localization
 
 ### 🏭 Sensor, Actuator for AGV/AMR 
-- **Công nghệ**: C/C++, Linux
-- **Mô tả**: Triển khai Driver, API cho các Sensor sử dụng cho AGV/AMR.
-- **Tính năng**: Safety systems, Sensor Setup
+- **Công nghệ**: C/C++, Linux, Qt5
+- **Mô tả**: Triển khai Driver, API cho các Sensor sử dụng cho AGV/AMR với GUI monitoring.
+- **Tính năng**: Safety systems, Sensor Setup, Real-time monitoring dashboard
+
+### 🚀 Performance Optimization Projects
+- **Công nghệ**: CUDA, OpenMP, OpenCL, C++
+- **Mô tả**: Tối ưu hóa algorithms cho real-time processing và computer vision
+- **Tính năng**: GPU acceleration, Multi-core processing, Cross-platform optimization
 
 
 ## 🎓 Chứng Chỉ & Học Vấn
