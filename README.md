@@ -103,7 +103,3 @@ Tôi luôn sẵn sàng hợp tác trong các dự án:
 <div align="center">
   <i>⭐ Nếu bạn thích những dự án của tôi, hãy star các repository và theo dõi để cập nhật những project mới nhất!</i>
 </div>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=hungvuhust&color=blueviolet&style=for-the-badge" alt="Profile Views" />
-</div> 
