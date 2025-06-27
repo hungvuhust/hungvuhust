@@ -63,7 +63,7 @@ Trong quá trình làm việc, tôi đã **thiết kế, phát triển và tri�
 ![Gazebo](https://img.shields.io/badge/Gazebo-FF6600?style=for-the-badge&logo=gazebo&logoColor=white)
 ![RVIZ](https://img.shields.io/badge/RVIZ-000000?style=for-the-badge&logo=ros&logoColor=white)
 
-### Hardware & Sensors (Kinh nghiệm thực tế)
+### Hardware & Sensors
 ![LIDAR 2D](https://img.shields.io/badge/LIDAR%202D-SICK(NAV350%2FnanoScan3)%2FHinson%20LE-blue?style=for-the-badge)
 ![LIDAR 3D](https://img.shields.io/badge/LIDAR%203D-LIVOX%20MID360-blue?style=for-the-badge)
 ![IMU](https://img.shields.io/badge/IMU-WIT%20Motion(6Dof%2F9Dof)-green?style=for-the-badge)
