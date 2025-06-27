@@ -24,7 +24,8 @@ Trong quá trình làm việc, tôi đã **thiết kế, phát triển và tri�
 - **SLAM (Simultaneous Localization and Mapping)** 
 - **Localizaiton 2D/3D**
 - **Computer Vision & Perception** 
-- **Sensor Fusion** 
+- **Sensor Fusion**
+- **Web Backend Robotics Development**
 
 
 ## 📊 GitHub Stats
@@ -55,19 +56,23 @@ Trong quá trình làm việc, tôi đã **thiết kế, phát triển và tri�
 ![OpenCL](https://img.shields.io/badge/OpenCL-000000?style=for-the-badge&logo=opencl&logoColor=white)
 ![Qt5](https://img.shields.io/badge/Qt5-41CD52?style=for-the-badge&logo=qt&logoColor=white)
 
+### Web Backend Framework
+![Crow](https://img.shields.io/badge/Crow-C++%20Micro%20Framework-orange?style=for-the-badge)
+![Drogon](https://img.shields.io/badge/Drogon-C++%20Web%20Framework-lightblue?style=for-the-badge)
+
 ### Tools & Platforms
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Gazebo](https://img.shields.io/badge/Gazebo-FF6600?style=for-the-badge&logo=gazebo&logoColor=white)
-![RVIZ](https://img.shields.io/badge/RVIZ-000000?style=for-the-badge&logo=ros&logoColor=white)
+![RVIZ](https://img.shields.io/badge/RVIZ2-000000?style=for-the-badge&logo=ros&logoColor=white)
 
 ### Hardware & Sensors
 ![LIDAR 2D](https://img.shields.io/badge/LIDAR%202D-SICK(NAV350%2FnanoScan3)%2FHinson%20LE-blue?style=for-the-badge)
 ![LIDAR 3D](https://img.shields.io/badge/LIDAR%203D-LIVOX%20MID360-blue?style=for-the-badge)
 ![IMU](https://img.shields.io/badge/IMU-WIT%20Motion(6Dof%2F9Dof)-green?style=for-the-badge)
-![Camera](https://img.shields.io/badge/Camera-RGB(Logitech)%2FDepth(Intel%20RealSense)-orange?style=for-the-badge)
+![Depth Camera](https://img.shields.io/badge/Depth%20Camera-Intel%20RealSense(D435i%2FD455)-orange?style=for-the-badge)
 ![DC Servo](https://img.shields.io/badge/DC%20Servo-Kinco%2FMoon%2FPlutool%2FLeadshine-purple?style=for-the-badge)
 ![BLDC](https://img.shields.io/badge/BLDC-Hinson%2FPhonix-purple?style=for-the-badge)
 ![Safety](https://img.shields.io/badge/Safety-SICK(TIM%2FsafeVisionary2)%2FHinson(SE%2FHE)-red?style=for-the-badge)
@@ -79,12 +84,15 @@ Trong quá trình làm việc, tôi đã **thiết kế, phát triển và tri�
 ![Serial](https://img.shields.io/badge/Serial-RS232%2FRS485-green?style=for-the-badge)
 ![Ethernet](https://img.shields.io/badge/Ethernet-TCP%2FUDP%2FSLMP%2FMELSOFT-orange?style=for-the-badge)
 
-### Inter-Process Communication (IPC)
-![MQTT](https://img.shields.io/badge/ZeroMQ-High%20Performance-red?style=for-the-badge)
-![gRPC](https://img.shields.io/badge/gRPC-RPC%20Framework-blue?style=for-the-badge)
-![Socket](https://img.shields.io/badge/Socket-TCP%2FUDP%2FUNIX-purple?style=for-the-badge)
-![IPC](https://img.shields.io/badge/IPC-Shared%20Memory%2FPipes%2FNamed%20Pipes%2FMessage%20Queue-darkgreen?style=for-the-badge)
+### Communication
+![MQTT](https://img.shields.io/badge/message%20queue-MQTT(Eclipse%20Paho%2FRabbitMQ)%2FZMQ-red?style=for-the-badge)
+![gRPC](https://img.shields.io/badge/RPC-gRPC-blue?style=for-the-badge)
+![IPC](https://img.shields.io/badge/IPC-Shared%20Memory%2FPipes%2FNamed%20Pipes%2FMessage%20Queue%2FSocket(TCP%2FUDP%2FUNIX%2FCAN)-darkgreen?style=for-the-badge)
 <!-- ![Pipes](https://img.shields.io/badge/Pipes-Named%20Pipes-brown?style=for-the-badge) -->
+
+### Database & Data Storage
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite3-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
 </div>
 
