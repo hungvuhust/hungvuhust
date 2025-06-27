@@ -81,8 +81,8 @@ Trong quá trình làm việc, tôi đã **thiết kế, phát triển và tri�
 ![ZMQ](https://img.shields.io/badge/ZeroMQ-High%20Performance-red?style=for-the-badge)
 ![gRPC](https://img.shields.io/badge/gRPC-RPC%20Framework-blue?style=for-the-badge)
 ![Socket](https://img.shields.io/badge/Socket-TCP%2FUDP%2FUNIX-purple?style=for-the-badge)
-![SHM](https://img.shields.io/badge/Shared%20Memory-IPC-darkgreen?style=for-the-badge)
-![Pipes](https://img.shields.io/badge/Pipes-Named%20Pipes-brown?style=for-the-badge)
+![SHM](https://img.shields.io/badge/Shared%20Memory%20Pipes-Named%20Pipes-IPC-darkgreen?style=for-the-badge)
+<!-- ![Pipes](https://img.shields.io/badge/Pipes-Named%20Pipes-brown?style=for-the-badge) -->
 
 </div>
 
