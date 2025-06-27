@@ -71,6 +71,19 @@ Trong quá trình làm việc, tôi đã **thiết kế, phát triển và tri�
 ![Safety](https://img.shields.io/badge/Safety-Laser%20Scanner-red?style=for-the-badge)
 ![PLC](https://img.shields.io/badge/PLC-Industrial-darkblue?style=for-the-badge)
 
+### Industrial Communication Protocols
+![CAN](https://img.shields.io/badge/CAN-CANOpen-yellow?style=for-the-badge)
+![Modbus](https://img.shields.io/badge/Modbus-RTU%2FTCP-blue?style=for-the-badge)
+![Serial](https://img.shields.io/badge/Serial-RS232%2FRS485-green?style=for-the-badge)
+![Ethernet](https://img.shields.io/badge/Ethernet-IP-orange?style=for-the-badge)
+
+### Inter-Process Communication (IPC)
+![ZMQ](https://img.shields.io/badge/ZeroMQ-High%20Performance-red?style=for-the-badge)
+![gRPC](https://img.shields.io/badge/gRPC-RPC%20Framework-blue?style=for-the-badge)
+![Socket](https://img.shields.io/badge/Socket-TCP%2FUDP%2FUNIX-purple?style=for-the-badge)
+![SHM](https://img.shields.io/badge/Shared%20Memory-IPC-darkgreen?style=for-the-badge)
+![Pipes](https://img.shields.io/badge/Pipes-Named%20Pipes-brown?style=for-the-badge)
+
 </div>
 
 
