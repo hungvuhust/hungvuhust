@@ -75,7 +75,7 @@ Trong quá trình làm việc, tôi đã **thiết kế, phát triển và tri�
 ![CAN](https://img.shields.io/badge/CAN-CANOpen-yellow?style=for-the-badge)
 ![Modbus](https://img.shields.io/badge/Modbus-RTU%2FTCP-blue?style=for-the-badge)
 ![Serial](https://img.shields.io/badge/Serial-RS232%2FRS485-green?style=for-the-badge)
-![Ethernet](https://img.shields.io/badge/Ethernet-IP-orange?style=for-the-badge)
+![Ethernet](https://img.shields.io/badge/Ethernet-TCP%2FUDP-orange?style=for-the-badge)
 
 ### Inter-Process Communication (IPC)
 ![ZMQ](https://img.shields.io/badge/ZeroMQ-High%20Performance-red?style=for-the-badge)
