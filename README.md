@@ -24,7 +24,7 @@ Trong quá trình làm việc, tôi đã **thiết kế, phát triển và tri�
 - **SLAM (Simultaneous Localization and Mapping)** 
 - **Localizaiton 2D/3D**
 - **Computer Vision & Perception** 
-- **Sensor Fusion & Kalman Filtering** 
+- **Sensor Fusion** 
 
 
 ## 📊 GitHub Stats
