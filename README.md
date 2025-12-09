@@ -6,7 +6,7 @@
 
 ## 👋 Giới Thiệu
 
-Chào mừng đến với GitHub của tôi! Tôi là **Vũ Tân Hưng** - một kỹ sư Cơ điện tử chuyên sâu về Robotics và Autonomous Systems. Với **2.5 năm kinh nghiệm thực chiến** trong việc phát triển và triển khai **Autonomous Mobile Robots (AMR)** cho các ứng dụng công nghiệp, tôi đã tích lũy được kiến thức sâu rộng trong lĩnh vực này.
+Chào mừng đến với GitHub của tôi! Tôi là **Vũ Tân Hưng** - một kỹ sư Cơ điện tử chuyên sâu về Robotics và Autonomous Systems. Với **3 năm kinh nghiệm thực chiến** trong việc phát triển và triển khai **Autonomous Mobile Robots (AMR)** cho các ứng dụng công nghiệp, tôi đã tích lũy được kiến thức sâu rộng trong lĩnh vực này.
 
 ### 🏭 Kinh Nghiệm Thực Tế
 
